@@ -1,5 +1,9 @@
 # **RabbitMQ-Python-Example**
 
+In this page, we will show a ` MQ Example` with **python**.
+
+How to send message and receive message, then save date to **MySQL**.
+
 # Introduction
 
 Message Queue(MQ) 顧名思義就是把 **訊息message** 放到 **佇列Queue。**我們可以把它想成是「郵局」，作為「寄件者」與「收件者」之間訊息傳遞的橋樑。
